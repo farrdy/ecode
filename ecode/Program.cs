@@ -29,5 +29,8 @@ namespace ecode
         {
             Console.WriteLine("hello baba");
         }
+        public static void hello() {
+
+        }
     }
 }
