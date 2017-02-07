@@ -14,6 +14,15 @@ namespace ecode
             driveCar();
             AddNumbers();
             Console.ReadLine();
+            
+
+        }
+        static void AddNumbersLatest()
+        {
+            var number1 = 10;
+            var number2 = 100;
+            Console.WriteLine("number1=" + number1);
+            Console.WriteLine("number2=" + number2);
 
         }
         static void AddNumbers()
